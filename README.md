@@ -1,11 +1,60 @@
-# Olá! Eu sou Lucas Biazin 👋  
+# Lucas Biazin 👋
 
-💻 Desenvolvedor focado em backend, arquitetura e SaaS escalável.  
-🚀 Criando soluções robustas com Java, Spring Boot e PostgreSQL.
+Backend Engineer • SaaS Architecture • Secure Systems
+
+Desenvolvedor especializado em backend com foco em arquitetura escalável, segurança aplicada e construção de sistemas robustos.
 
 ---
 
-## 📊 Estatísticas
+## Sobre mim
+
+Gosto de projetar sistemas que:
+
+- Escalam com previsibilidade
+- Mantêm isolamento claro de contexto
+- Tratam segurança como parte da arquitetura
+- São simples por fora e bem estruturados por dentro
+
+Tenho experiência prática com aplicações multi-tenant, integrações financeiras e ambientes de produção.
+
+---
+
+## Mentalidade Técnica
+
+- Arquitetura antes de framework
+- Segurança por padrão, não por correção
+- Clareza estrutural > complexidade desnecessária
+- Performance como consequência de bom design
+- Código que aguenta produção
+
+---
+
+## Segurança & Engenharia
+
+- Autenticação segura (JWT / cookies HttpOnly)
+- Controle de acesso baseado em papéis (RBAC)
+- Isolamento de contexto em aplicações multi-tenant
+- Validação rigorosa de entrada
+- Tratamento estruturado de erros
+- Proteção contra falhas  (XSS, CSRF, access control)
+- Gestão segura de credenciais e variáveis sensíveis
+
+---
+
+## Stack
+
+• Java 
+• Spring Boot 
+• Spring Security 
+• PostgreSQL 
+• Docker 
+• Linux 
+• Nginx  
+• React
+
+---
+
+## Estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-omega-eight-29.vercel.app/api?username=lucasbiazin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&hide_border=true" />
@@ -14,37 +63,10 @@
 
 ---
 
-## 📈 Atividade
+## Contato
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasbiazin&theme=radical&hide_border=true" />
-</p>
-
-> ⚠️ Caso o gráfico de atividade pare de funcionar, é limitação temporária do serviço.
+[LinkedIn](https://www.linkedin.com/in/lucas-biazin)
 
 ---
 
-## 🛠 Tecnologias & Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Biazin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-biazin)
-
----
-
-⭐ Sempre construindo algo novo.
+Construo sistemas que continuam funcionando quando a empolgação já passou.
