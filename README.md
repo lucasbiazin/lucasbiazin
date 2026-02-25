@@ -43,14 +43,14 @@ Tenho experiência prática com aplicações multi-tenant, integrações finance
 
 ## Stack
 
-• Java 
-• Spring Boot 
-• Spring Security 
-• PostgreSQL 
-• Docker 
-• Linux 
-• Nginx  
-• React
+- Java 
+- Spring Boot 
+- Spring Security 
+- PostgreSQL 
+- Docker 
+- Linux 
+- Nginx  
+- React
 
 ---
 
