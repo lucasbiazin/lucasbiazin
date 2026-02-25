@@ -8,8 +8,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-omega-eight-29.vercel.app/api?username=lucasbiazin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-omega-eight-29.vercel.app/api/top-langs/?username=lucasbiazin&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats-omega-eight-29.vercel.app/api?username=lucasbiazin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-omega-eight-29.vercel.app/api/top-langs/?username=lucasbiazin&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
